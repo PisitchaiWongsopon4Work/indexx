@@ -1,4 +1,3 @@
-#project by Toto(pisitchai wongsopon)
 ### About me
 I hold a bachelor’s degree in Computer Science and am currently experimenting with building digital products to develop my skills and expand my portfolio. 
 Feel free to try out my projects and share your feedback with me at **(pisitchaitoto@gmail.com)**.
