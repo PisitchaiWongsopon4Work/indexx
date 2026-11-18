@@ -14,7 +14,7 @@ Feel free to try out my projects and share your feedback with me at **(pisitchai
 - I don't require a very high wage
 
 ### Project
-- **[DataCleanner 1.0](https://github.com/PisitchaiWongsopon4Work/indexx/datacleanner)**
+- **[DataCleanner 1.0](https://github.com/PisitchaiWongsopon4Work/indexx/blob/main/datacleanner)**
 
 ### Get in Touch
 - **Email:** pisitchaitoto@gmail.com
